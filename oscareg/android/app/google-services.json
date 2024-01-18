@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040255137600",
+    "project_id": "oscareg-98c5f",
+    "storage_bucket": "oscareg-98c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040255137600:android:4343b63825426f2a346ca5",
+        "android_client_info": {
+          "package_name": "com.example.oscareg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzmlOFulVpMMG3Fe-J20LTmQpDa2UDSZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
